@@ -1,0 +1,936 @@
+Jul 21 08:53:15 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 08:53:15 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 08:53:15 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 08:53:15 ip-172-31-43-220 web: throw err;
+Jul 21 08:53:15 ip-172-31-43-220 web: ^
+Jul 21 08:53:15 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 08:53:15 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 08:53:15 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 08:53:15 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 08:53:15 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 08:53:15 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 08:53:15 ip-172-31-43-220 web: requireStack: []
+Jul 21 08:53:15 ip-172-31-43-220 web: }
+Jul 21 08:53:16 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 08:53:16 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 08:53:16 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 08:53:16 ip-172-31-43-220 web: throw err;
+Jul 21 08:53:16 ip-172-31-43-220 web: ^
+Jul 21 08:53:16 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 08:53:16 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 08:53:16 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 08:53:16 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 08:53:16 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 08:53:16 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 08:53:16 ip-172-31-43-220 web: requireStack: []
+Jul 21 08:53:16 ip-172-31-43-220 web: }
+Jul 21 08:53:17 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 08:53:17 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 08:53:17 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 08:53:17 ip-172-31-43-220 web: throw err;
+Jul 21 08:53:17 ip-172-31-43-220 web: ^
+Jul 21 08:53:17 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 08:53:17 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 08:53:17 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 08:53:17 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 08:53:17 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 08:53:17 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 08:53:17 ip-172-31-43-220 web: requireStack: []
+Jul 21 08:53:17 ip-172-31-43-220 web: }
+Jul 21 08:53:18 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 08:53:18 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 08:53:18 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 08:53:18 ip-172-31-43-220 web: throw err;
+Jul 21 08:53:18 ip-172-31-43-220 web: ^
+Jul 21 08:53:18 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 08:53:18 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 08:53:18 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 08:53:18 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 08:53:18 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 08:53:18 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 08:53:18 ip-172-31-43-220 web: requireStack: []
+Jul 21 08:53:18 ip-172-31-43-220 web: }
+Jul 21 08:53:18 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 08:53:18 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 08:53:18 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 08:53:18 ip-172-31-43-220 web: throw err;
+Jul 21 08:53:18 ip-172-31-43-220 web: ^
+Jul 21 08:53:18 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 08:53:18 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 08:53:18 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 08:53:18 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 08:53:18 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 08:53:18 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 08:53:18 ip-172-31-43-220 web: requireStack: []
+Jul 21 08:53:18 ip-172-31-43-220 web: }
+Jul 21 08:53:19 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 08:53:19 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 08:53:19 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 08:53:19 ip-172-31-43-220 web: throw err;
+Jul 21 08:53:19 ip-172-31-43-220 web: ^
+Jul 21 08:53:19 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 08:53:19 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 08:53:19 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 08:53:19 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 08:53:19 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 08:53:19 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 08:53:19 ip-172-31-43-220 web: requireStack: []
+Jul 21 08:53:19 ip-172-31-43-220 web: }
+Jul 21 08:54:03 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 08:54:03 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 08:54:03 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 08:54:03 ip-172-31-43-220 web: throw err;
+Jul 21 08:54:03 ip-172-31-43-220 web: ^
+Jul 21 08:54:03 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 08:54:03 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 08:54:03 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 08:54:03 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 08:54:03 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 08:54:03 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 08:54:03 ip-172-31-43-220 web: requireStack: []
+Jul 21 08:54:03 ip-172-31-43-220 web: }
+Jul 21 08:54:04 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 08:54:04 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 08:54:04 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 08:54:04 ip-172-31-43-220 web: throw err;
+Jul 21 08:54:04 ip-172-31-43-220 web: ^
+Jul 21 08:54:04 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 08:54:04 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 08:54:04 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 08:54:04 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 08:54:04 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 08:54:04 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 08:54:04 ip-172-31-43-220 web: requireStack: []
+Jul 21 08:54:04 ip-172-31-43-220 web: }
+Jul 21 08:54:04 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 08:54:04 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 08:54:04 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 08:54:04 ip-172-31-43-220 web: throw err;
+Jul 21 08:54:04 ip-172-31-43-220 web: ^
+Jul 21 08:54:04 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 08:54:04 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 08:54:04 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 08:54:04 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 08:54:04 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 08:54:04 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 08:54:04 ip-172-31-43-220 web: requireStack: []
+Jul 21 08:54:04 ip-172-31-43-220 web: }
+Jul 21 08:54:05 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 08:54:05 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 08:54:05 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 08:54:05 ip-172-31-43-220 web: throw err;
+Jul 21 08:54:05 ip-172-31-43-220 web: ^
+Jul 21 08:54:05 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 08:54:05 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 08:54:05 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 08:54:05 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 08:54:05 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 08:54:05 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 08:54:05 ip-172-31-43-220 web: requireStack: []
+Jul 21 08:54:05 ip-172-31-43-220 web: }
+Jul 21 08:54:06 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 08:54:06 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 08:54:06 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 08:54:06 ip-172-31-43-220 web: throw err;
+Jul 21 08:54:06 ip-172-31-43-220 web: ^
+Jul 21 08:54:06 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 08:54:06 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 08:54:06 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 08:54:06 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 08:54:06 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 08:54:06 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 08:54:06 ip-172-31-43-220 web: requireStack: []
+Jul 21 08:54:06 ip-172-31-43-220 web: }
+Jul 21 08:54:07 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 08:54:07 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 08:54:07 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 08:54:07 ip-172-31-43-220 web: throw err;
+Jul 21 08:54:07 ip-172-31-43-220 web: ^
+Jul 21 08:54:07 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 08:54:07 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 08:54:07 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 08:54:07 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 08:54:07 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 08:54:07 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 08:54:07 ip-172-31-43-220 web: requireStack: []
+Jul 21 08:54:07 ip-172-31-43-220 web: }
+Jul 21 09:01:31 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:01:31 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:01:31 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:01:31 ip-172-31-43-220 web: throw err;
+Jul 21 09:01:31 ip-172-31-43-220 web: ^
+Jul 21 09:01:31 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:01:31 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:01:31 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:01:31 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:01:31 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:01:31 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:01:31 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:01:31 ip-172-31-43-220 web: }
+Jul 21 09:01:32 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:01:32 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:01:32 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:01:32 ip-172-31-43-220 web: throw err;
+Jul 21 09:01:32 ip-172-31-43-220 web: ^
+Jul 21 09:01:32 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:01:32 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:01:32 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:01:32 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:01:32 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:01:32 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:01:32 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:01:32 ip-172-31-43-220 web: }
+Jul 21 09:01:33 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:01:33 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:01:33 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:01:33 ip-172-31-43-220 web: throw err;
+Jul 21 09:01:33 ip-172-31-43-220 web: ^
+Jul 21 09:01:33 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:01:33 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:01:33 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:01:33 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:01:33 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:01:33 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:01:33 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:01:33 ip-172-31-43-220 web: }
+Jul 21 09:01:33 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:01:33 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:01:33 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:01:33 ip-172-31-43-220 web: throw err;
+Jul 21 09:01:33 ip-172-31-43-220 web: ^
+Jul 21 09:01:33 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:01:33 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:01:33 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:01:33 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:01:33 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:01:33 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:01:33 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:01:33 ip-172-31-43-220 web: }
+Jul 21 09:01:34 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:01:34 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:01:34 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:01:34 ip-172-31-43-220 web: throw err;
+Jul 21 09:01:34 ip-172-31-43-220 web: ^
+Jul 21 09:01:34 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:01:34 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:01:34 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:01:34 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:01:34 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:01:34 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:01:34 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:01:34 ip-172-31-43-220 web: }
+Jul 21 09:01:35 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:01:35 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:01:35 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:01:35 ip-172-31-43-220 web: throw err;
+Jul 21 09:01:35 ip-172-31-43-220 web: ^
+Jul 21 09:01:35 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:01:35 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:01:35 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:01:35 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:01:35 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:01:35 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:01:35 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:01:35 ip-172-31-43-220 web: }
+Jul 21 09:04:24 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:04:24 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:04:24 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:04:24 ip-172-31-43-220 web: throw err;
+Jul 21 09:04:24 ip-172-31-43-220 web: ^
+Jul 21 09:04:24 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:04:24 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:04:24 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:04:24 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:04:24 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:04:24 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:04:24 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:04:24 ip-172-31-43-220 web: }
+Jul 21 09:04:25 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:04:25 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:04:25 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:04:25 ip-172-31-43-220 web: throw err;
+Jul 21 09:04:25 ip-172-31-43-220 web: ^
+Jul 21 09:04:25 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:04:25 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:04:25 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:04:25 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:04:25 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:04:25 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:04:25 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:04:25 ip-172-31-43-220 web: }
+Jul 21 09:04:25 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:04:25 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:04:25 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:04:25 ip-172-31-43-220 web: throw err;
+Jul 21 09:04:25 ip-172-31-43-220 web: ^
+Jul 21 09:04:25 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:04:25 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:04:25 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:04:25 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:04:25 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:04:25 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:04:25 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:04:25 ip-172-31-43-220 web: }
+Jul 21 09:04:26 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:04:26 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:04:26 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:04:26 ip-172-31-43-220 web: throw err;
+Jul 21 09:04:26 ip-172-31-43-220 web: ^
+Jul 21 09:04:26 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:04:26 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:04:26 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:04:26 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:04:26 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:04:26 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:04:26 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:04:26 ip-172-31-43-220 web: }
+Jul 21 09:04:27 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:04:27 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:04:27 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:04:27 ip-172-31-43-220 web: throw err;
+Jul 21 09:04:27 ip-172-31-43-220 web: ^
+Jul 21 09:04:27 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:04:27 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:04:27 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:04:27 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:04:27 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:04:27 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:04:27 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:04:27 ip-172-31-43-220 web: }
+Jul 21 09:04:28 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:04:28 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:04:28 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:04:28 ip-172-31-43-220 web: throw err;
+Jul 21 09:04:28 ip-172-31-43-220 web: ^
+Jul 21 09:04:28 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:04:28 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:04:28 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:04:28 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:04:28 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:04:28 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:04:28 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:04:28 ip-172-31-43-220 web: }
+Jul 21 09:37:10 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:37:10 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:37:10 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:37:10 ip-172-31-43-220 web: throw err;
+Jul 21 09:37:10 ip-172-31-43-220 web: ^
+Jul 21 09:37:10 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:37:10 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:37:10 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:37:10 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:37:10 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:37:10 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:37:10 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:37:10 ip-172-31-43-220 web: }
+Jul 21 09:37:11 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:37:11 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:37:11 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:37:11 ip-172-31-43-220 web: throw err;
+Jul 21 09:37:11 ip-172-31-43-220 web: ^
+Jul 21 09:37:11 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:37:11 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:37:11 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:37:11 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:37:11 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:37:11 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:37:11 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:37:11 ip-172-31-43-220 web: }
+Jul 21 09:37:12 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:37:12 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:37:12 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:37:12 ip-172-31-43-220 web: throw err;
+Jul 21 09:37:12 ip-172-31-43-220 web: ^
+Jul 21 09:37:12 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:37:12 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:37:12 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:37:12 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:37:12 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:37:12 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:37:12 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:37:12 ip-172-31-43-220 web: }
+Jul 21 09:37:12 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:37:12 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:37:12 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:37:12 ip-172-31-43-220 web: throw err;
+Jul 21 09:37:12 ip-172-31-43-220 web: ^
+Jul 21 09:37:12 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:37:12 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:37:12 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:37:12 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:37:12 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:37:12 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:37:12 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:37:12 ip-172-31-43-220 web: }
+Jul 21 09:37:13 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:37:13 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:37:13 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:37:13 ip-172-31-43-220 web: throw err;
+Jul 21 09:37:13 ip-172-31-43-220 web: ^
+Jul 21 09:37:13 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:37:13 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:37:13 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:37:13 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:37:13 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:37:13 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:37:13 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:37:13 ip-172-31-43-220 web: }
+Jul 21 09:37:14 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 09:37:14 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 09:37:14 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 09:37:14 ip-172-31-43-220 web: throw err;
+Jul 21 09:37:14 ip-172-31-43-220 web: ^
+Jul 21 09:37:14 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 09:37:14 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 09:37:14 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 09:37:14 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 09:37:14 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 09:37:14 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 09:37:14 ip-172-31-43-220 web: requireStack: []
+Jul 21 09:37:14 ip-172-31-43-220 web: }
+Jul 21 10:14:02 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:14:02 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:14:02 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:14:02 ip-172-31-43-220 web: throw err;
+Jul 21 10:14:02 ip-172-31-43-220 web: ^
+Jul 21 10:14:02 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:14:02 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:14:02 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:14:02 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:14:02 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:14:02 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:14:02 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:14:02 ip-172-31-43-220 web: }
+Jul 21 10:14:02 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:14:02 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:14:02 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:14:02 ip-172-31-43-220 web: throw err;
+Jul 21 10:14:02 ip-172-31-43-220 web: ^
+Jul 21 10:14:02 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:14:02 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:14:02 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:14:02 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:14:02 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:14:02 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:14:02 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:14:02 ip-172-31-43-220 web: }
+Jul 21 10:14:03 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:14:03 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:14:03 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:14:03 ip-172-31-43-220 web: throw err;
+Jul 21 10:14:03 ip-172-31-43-220 web: ^
+Jul 21 10:14:03 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:14:03 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:14:03 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:14:03 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:14:03 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:14:03 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:14:03 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:14:03 ip-172-31-43-220 web: }
+Jul 21 10:14:04 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:14:04 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:14:04 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:14:04 ip-172-31-43-220 web: throw err;
+Jul 21 10:14:04 ip-172-31-43-220 web: ^
+Jul 21 10:14:04 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:14:04 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:14:04 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:14:04 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:14:04 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:14:04 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:14:04 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:14:04 ip-172-31-43-220 web: }
+Jul 21 10:14:05 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:14:05 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:14:05 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:14:05 ip-172-31-43-220 web: throw err;
+Jul 21 10:14:05 ip-172-31-43-220 web: ^
+Jul 21 10:14:05 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:14:05 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:14:05 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:14:05 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:14:05 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:14:05 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:14:05 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:14:05 ip-172-31-43-220 web: }
+Jul 21 10:14:05 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:14:05 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:14:05 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:14:05 ip-172-31-43-220 web: throw err;
+Jul 21 10:14:05 ip-172-31-43-220 web: ^
+Jul 21 10:14:05 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:14:05 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:14:05 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:14:05 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:14:05 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:14:05 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:14:05 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:14:05 ip-172-31-43-220 web: }
+Jul 21 10:16:13 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:16:13 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:16:13 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:16:13 ip-172-31-43-220 web: throw err;
+Jul 21 10:16:13 ip-172-31-43-220 web: ^
+Jul 21 10:16:13 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:16:13 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:16:13 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:16:13 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:16:13 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:16:13 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:16:13 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:16:13 ip-172-31-43-220 web: }
+Jul 21 10:16:14 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:16:14 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:16:14 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:16:14 ip-172-31-43-220 web: throw err;
+Jul 21 10:16:14 ip-172-31-43-220 web: ^
+Jul 21 10:16:14 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:16:14 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:16:14 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:16:14 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:16:14 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:16:14 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:16:14 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:16:14 ip-172-31-43-220 web: }
+Jul 21 10:16:15 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:16:15 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:16:15 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:16:15 ip-172-31-43-220 web: throw err;
+Jul 21 10:16:15 ip-172-31-43-220 web: ^
+Jul 21 10:16:15 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:16:15 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:16:15 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:16:15 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:16:15 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:16:15 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:16:15 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:16:15 ip-172-31-43-220 web: }
+Jul 21 10:16:15 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:16:15 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:16:15 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:16:15 ip-172-31-43-220 web: throw err;
+Jul 21 10:16:15 ip-172-31-43-220 web: ^
+Jul 21 10:16:15 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:16:15 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:16:15 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:16:15 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:16:15 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:16:15 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:16:15 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:16:15 ip-172-31-43-220 web: }
+Jul 21 10:16:16 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:16:16 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:16:16 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:16:16 ip-172-31-43-220 web: throw err;
+Jul 21 10:16:16 ip-172-31-43-220 web: ^
+Jul 21 10:16:16 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:16:16 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:16:16 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:16:16 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:16:16 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:16:16 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:16:16 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:16:16 ip-172-31-43-220 web: }
+Jul 21 10:16:17 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:16:17 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:16:17 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:16:17 ip-172-31-43-220 web: throw err;
+Jul 21 10:16:17 ip-172-31-43-220 web: ^
+Jul 21 10:16:17 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:16:17 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:16:17 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:16:17 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:16:17 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:16:17 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:16:17 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:16:17 ip-172-31-43-220 web: }
+Jul 21 10:18:53 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:18:53 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:18:53 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:18:53 ip-172-31-43-220 web: throw err;
+Jul 21 10:18:53 ip-172-31-43-220 web: ^
+Jul 21 10:18:53 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:18:53 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:18:53 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:18:53 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:18:53 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:18:53 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:18:53 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:18:53 ip-172-31-43-220 web: }
+Jul 21 10:18:54 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:18:54 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:18:54 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:18:54 ip-172-31-43-220 web: throw err;
+Jul 21 10:18:54 ip-172-31-43-220 web: ^
+Jul 21 10:18:54 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:18:54 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:18:54 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:18:54 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:18:54 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:18:54 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:18:54 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:18:54 ip-172-31-43-220 web: }
+Jul 21 10:18:54 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:18:54 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:18:54 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:18:54 ip-172-31-43-220 web: throw err;
+Jul 21 10:18:54 ip-172-31-43-220 web: ^
+Jul 21 10:18:54 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:18:54 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:18:54 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:18:54 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:18:54 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:18:54 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:18:54 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:18:54 ip-172-31-43-220 web: }
+Jul 21 10:18:55 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:18:55 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:18:55 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:18:55 ip-172-31-43-220 web: throw err;
+Jul 21 10:18:55 ip-172-31-43-220 web: ^
+Jul 21 10:18:55 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:18:55 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:18:55 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:18:55 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:18:55 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:18:55 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:18:55 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:18:55 ip-172-31-43-220 web: }
+Jul 21 10:18:56 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:18:56 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:18:56 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:18:56 ip-172-31-43-220 web: throw err;
+Jul 21 10:18:56 ip-172-31-43-220 web: ^
+Jul 21 10:18:56 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:18:56 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:18:56 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:18:56 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:18:56 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:18:56 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:18:56 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:18:56 ip-172-31-43-220 web: }
+Jul 21 10:18:57 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:18:57 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:18:57 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:18:57 ip-172-31-43-220 web: throw err;
+Jul 21 10:18:57 ip-172-31-43-220 web: ^
+Jul 21 10:18:57 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:18:57 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:18:57 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:18:57 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:18:57 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:18:57 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:18:57 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:18:57 ip-172-31-43-220 web: }
+Jul 21 10:58:22 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:58:22 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:58:22 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:58:22 ip-172-31-43-220 web: throw err;
+Jul 21 10:58:22 ip-172-31-43-220 web: ^
+Jul 21 10:58:22 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:58:22 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:58:22 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:58:22 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:58:22 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:58:22 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:58:22 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:58:22 ip-172-31-43-220 web: }
+Jul 21 10:58:22 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:58:22 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:58:22 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:58:22 ip-172-31-43-220 web: throw err;
+Jul 21 10:58:22 ip-172-31-43-220 web: ^
+Jul 21 10:58:22 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:58:22 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:58:22 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:58:22 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:58:22 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:58:22 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:58:22 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:58:22 ip-172-31-43-220 web: }
+Jul 21 10:58:23 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:58:23 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:58:23 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:58:23 ip-172-31-43-220 web: throw err;
+Jul 21 10:58:23 ip-172-31-43-220 web: ^
+Jul 21 10:58:23 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:58:23 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:58:23 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:58:23 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:58:23 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:58:23 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:58:23 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:58:23 ip-172-31-43-220 web: }
+Jul 21 10:58:24 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:58:24 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:58:24 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:58:24 ip-172-31-43-220 web: throw err;
+Jul 21 10:58:24 ip-172-31-43-220 web: ^
+Jul 21 10:58:24 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:58:24 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:58:24 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:58:24 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:58:24 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:58:24 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:58:24 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:58:24 ip-172-31-43-220 web: }
+Jul 21 10:58:25 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:58:25 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:58:25 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:58:25 ip-172-31-43-220 web: throw err;
+Jul 21 10:58:25 ip-172-31-43-220 web: ^
+Jul 21 10:58:25 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:58:25 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:58:25 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:58:25 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:58:25 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:58:25 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:58:25 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:58:25 ip-172-31-43-220 web: }
+Jul 21 10:58:25 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 10:58:25 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 10:58:25 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 10:58:25 ip-172-31-43-220 web: throw err;
+Jul 21 10:58:25 ip-172-31-43-220 web: ^
+Jul 21 10:58:25 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 10:58:25 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 10:58:25 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 10:58:25 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 10:58:25 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 10:58:25 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 10:58:25 ip-172-31-43-220 web: requireStack: []
+Jul 21 10:58:25 ip-172-31-43-220 web: }
+Jul 21 11:03:41 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:03:41 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:03:41 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:03:41 ip-172-31-43-220 web: throw err;
+Jul 21 11:03:41 ip-172-31-43-220 web: ^
+Jul 21 11:03:41 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:03:41 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:03:41 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:03:41 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:03:41 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:03:41 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:03:41 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:03:41 ip-172-31-43-220 web: }
+Jul 21 11:03:42 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:03:42 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:03:42 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:03:42 ip-172-31-43-220 web: throw err;
+Jul 21 11:03:42 ip-172-31-43-220 web: ^
+Jul 21 11:03:42 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:03:42 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:03:42 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:03:42 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:03:42 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:03:42 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:03:42 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:03:42 ip-172-31-43-220 web: }
+Jul 21 11:03:43 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:03:43 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:03:43 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:03:43 ip-172-31-43-220 web: throw err;
+Jul 21 11:03:43 ip-172-31-43-220 web: ^
+Jul 21 11:03:43 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:03:43 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:03:43 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:03:43 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:03:43 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:03:43 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:03:43 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:03:43 ip-172-31-43-220 web: }
+Jul 21 11:03:44 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:03:44 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:03:44 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:03:44 ip-172-31-43-220 web: throw err;
+Jul 21 11:03:44 ip-172-31-43-220 web: ^
+Jul 21 11:03:44 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:03:44 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:03:44 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:03:44 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:03:44 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:03:44 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:03:44 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:03:44 ip-172-31-43-220 web: }
+Jul 21 11:03:44 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:03:44 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:03:44 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:03:44 ip-172-31-43-220 web: throw err;
+Jul 21 11:03:44 ip-172-31-43-220 web: ^
+Jul 21 11:03:44 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:03:44 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:03:44 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:03:44 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:03:44 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:03:44 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:03:44 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:03:44 ip-172-31-43-220 web: }
+Jul 21 11:03:45 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:03:45 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:03:45 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:03:45 ip-172-31-43-220 web: throw err;
+Jul 21 11:03:45 ip-172-31-43-220 web: ^
+Jul 21 11:03:45 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:03:45 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:03:45 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:03:45 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:03:45 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:03:45 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:03:45 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:03:45 ip-172-31-43-220 web: }
+Jul 21 11:07:34 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:07:34 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:07:34 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:07:34 ip-172-31-43-220 web: throw err;
+Jul 21 11:07:34 ip-172-31-43-220 web: ^
+Jul 21 11:07:34 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:07:34 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:07:34 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:07:34 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:07:34 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:07:34 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:07:34 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:07:34 ip-172-31-43-220 web: }
+Jul 21 11:07:35 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:07:35 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:07:35 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:07:35 ip-172-31-43-220 web: throw err;
+Jul 21 11:07:35 ip-172-31-43-220 web: ^
+Jul 21 11:07:35 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:07:35 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:07:35 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:07:35 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:07:35 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:07:35 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:07:35 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:07:35 ip-172-31-43-220 web: }
+Jul 21 11:07:36 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:07:36 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:07:36 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:07:36 ip-172-31-43-220 web: throw err;
+Jul 21 11:07:36 ip-172-31-43-220 web: ^
+Jul 21 11:07:36 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:07:36 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:07:36 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:07:36 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:07:36 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:07:36 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:07:36 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:07:36 ip-172-31-43-220 web: }
+Jul 21 11:07:37 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:07:37 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:07:37 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:07:37 ip-172-31-43-220 web: throw err;
+Jul 21 11:07:37 ip-172-31-43-220 web: ^
+Jul 21 11:07:37 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:07:37 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:07:37 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:07:37 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:07:37 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:07:37 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:07:37 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:07:37 ip-172-31-43-220 web: }
+Jul 21 11:07:37 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:07:37 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:07:37 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:07:37 ip-172-31-43-220 web: throw err;
+Jul 21 11:07:37 ip-172-31-43-220 web: ^
+Jul 21 11:07:37 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:07:37 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:07:37 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:07:37 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:07:37 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:07:37 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:07:37 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:07:37 ip-172-31-43-220 web: }
+Jul 21 11:07:38 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:07:38 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:07:38 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:07:38 ip-172-31-43-220 web: throw err;
+Jul 21 11:07:38 ip-172-31-43-220 web: ^
+Jul 21 11:07:38 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:07:38 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:07:38 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:07:38 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:07:38 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:07:38 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:07:38 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:07:38 ip-172-31-43-220 web: }
+Jul 21 11:09:11 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:09:11 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:09:11 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:09:11 ip-172-31-43-220 web: throw err;
+Jul 21 11:09:11 ip-172-31-43-220 web: ^
+Jul 21 11:09:11 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:09:11 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:09:11 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:09:11 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:09:11 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:09:11 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:09:11 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:09:11 ip-172-31-43-220 web: }
+Jul 21 11:09:12 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:09:12 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:09:12 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:09:12 ip-172-31-43-220 web: throw err;
+Jul 21 11:09:12 ip-172-31-43-220 web: ^
+Jul 21 11:09:12 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:09:12 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:09:12 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:09:12 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:09:12 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:09:12 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:09:12 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:09:12 ip-172-31-43-220 web: }
+Jul 21 11:09:13 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:09:13 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:09:13 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:09:13 ip-172-31-43-220 web: throw err;
+Jul 21 11:09:13 ip-172-31-43-220 web: ^
+Jul 21 11:09:13 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:09:13 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:09:13 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:09:13 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:09:13 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:09:13 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:09:13 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:09:13 ip-172-31-43-220 web: }
+Jul 21 11:09:13 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:09:13 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:09:13 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:09:13 ip-172-31-43-220 web: throw err;
+Jul 21 11:09:13 ip-172-31-43-220 web: ^
+Jul 21 11:09:13 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:09:13 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:09:13 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:09:13 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:09:13 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:09:13 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:09:13 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:09:13 ip-172-31-43-220 web: }
+Jul 21 11:09:14 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:09:14 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:09:14 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:09:14 ip-172-31-43-220 web: throw err;
+Jul 21 11:09:14 ip-172-31-43-220 web: ^
+Jul 21 11:09:14 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:09:14 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:09:14 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:09:14 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:09:14 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:09:14 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:09:14 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:09:14 ip-172-31-43-220 web: }
+Jul 21 11:09:15 ip-172-31-43-220 web: > udagram-api@2.0.0 start
+Jul 21 11:09:15 ip-172-31-43-220 web: > node ./www/server.js
+Jul 21 11:09:15 ip-172-31-43-220 web: node:internal/modules/cjs/loader:936
+Jul 21 11:09:15 ip-172-31-43-220 web: throw err;
+Jul 21 11:09:15 ip-172-31-43-220 web: ^
+Jul 21 11:09:15 ip-172-31-43-220 web: Error: Cannot find module '/var/app/current/www/server.js'
+Jul 21 11:09:15 ip-172-31-43-220 web: at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+Jul 21 11:09:15 ip-172-31-43-220 web: at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+Jul 21 11:09:15 ip-172-31-43-220 web: at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+Jul 21 11:09:15 ip-172-31-43-220 web: at node:internal/main/run_main_module:17:47 {
+Jul 21 11:09:15 ip-172-31-43-220 web: code: 'MODULE_NOT_FOUND',
+Jul 21 11:09:15 ip-172-31-43-220 web: requireStack: []
+Jul 21 11:09:15 ip-172-31-43-220 web: }
