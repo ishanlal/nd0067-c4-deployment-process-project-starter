@@ -1,5 +1,11 @@
-2022/07/21 10:20:54.361330 [INFO] Cleaning log publish record...
-2022/07/21 10:20:54.361370 [INFO] Start log publish job.
-2022/07/21 10:20:54.361376 [INFO] Start publish file /tmp/BundleLogs-1658398854264.zip
-2022/07/21 10:20:54.457640 [INFO] Successful upload file /tmp/BundleLogs-1658398854264.zip to s3 resources/environments/logs/bundle/e-9epmep9zmh/i-00d239ab66f86ade5/BundleLogs-1658398854264.zip
-2022/07/21 10:20:54.457769 [INFO] Finished log publish job.
+2022/07/21 23:46:35.773556 [INFO] Cleaning log publish record...
+2022/07/21 23:46:35.773587 [INFO] Start log publish job.
+2022/07/21 23:46:35.773592 [INFO] Start publish file /tmp/BundleLogs-1658447195594.zip
+2022/07/21 23:46:35.886033 [INFO] Successful upload file /tmp/BundleLogs-1658447195594.zip to s3 resources/environments/logs/bundle/e-9epmep9zmh/i-0c1b6875cd6f81621/BundleLogs-1658447195594.zip
+2022/07/21 23:46:35.886160 [INFO] Finished log publish job.
+2022/07/21 23:49:50.641460 [INFO] Cleaning log publish record...
+2022/07/21 23:49:50.641491 [INFO] /tmp/BundleLogs-1658447195594.zip exists, no need for clean up
+2022/07/21 23:49:50.641496 [INFO] Start log publish job.
+2022/07/21 23:49:50.641500 [INFO] Start publish file /tmp/TailLogs-1658447390630.txt
+2022/07/21 23:49:50.743317 [INFO] Successful upload file /tmp/TailLogs-1658447390630.txt to s3 resources/environments/logs/tail/e-9epmep9zmh/i-0c1b6875cd6f81621/TailLogs-1658447390630.txt
+2022/07/21 23:49:50.743441 [INFO] Finished log publish job.
