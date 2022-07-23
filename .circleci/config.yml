@@ -14,15 +14,17 @@ jobs:
       # install node and checkout code
       - node/install:
           node-version: '16.15.1'
+      - eb/setup
+      - aws-cli/setup
       - checkout
       # Use root level package.json to install dependencies in the frontend app
       - run:
           name: Install Front-End Dependencies
           command: |
             echo "NODE --version"
-            echo $(node --version)
+            node --version
             echo "NPM --version"
-            echo $(npm --version)
+            npm --version
             npm run frontend:install
       # Install dependencies in the the backend API
       - run:
@@ -44,16 +46,6 @@ jobs:
           name: API Build
           command: |
             npm run api:build
-  # deploy step will run only after manual approval
-  deploy:
-    docker:
-      - image: "cimg/base:stable"
-      # more setup needed for aws, node, elastic beanstalk
-    steps:
-      - node/install:
-          node-version: '16.15.1'
-      - eb/setup
-      - aws-cli/setup
       # Deploy in both apps
       - run:
           name: Deploy App
@@ -64,14 +56,7 @@ workflows:
   udagram:
     jobs:
       - build
-      - hold:
           filters:
             branches:
               only:
                 - master
-          type: approval
-          requires:
-            - build
-      - deploy:
-          requires:
-            - hold
