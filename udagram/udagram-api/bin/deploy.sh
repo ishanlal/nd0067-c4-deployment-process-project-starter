@@ -1,3 +1,5 @@
+pwd
+ls
 eb init udagram-api-1 --platform node.js --region us-east-1
 eb create udagram-api-dev-1
 eb use udagram-api-dev-1
