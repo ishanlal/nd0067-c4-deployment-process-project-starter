@@ -34,11 +34,6 @@ jobs:
           name: Front-End Lint
           command: |
             npm run frontend:lint
-      # Test the frontend
-      - run:
-          name: Front-End Test
-          command: |
-            npm run frontend:test
       # Frontend end-to-end tests
       - run:
           name: Front-End e2e
