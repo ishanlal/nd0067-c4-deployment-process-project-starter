@@ -54,7 +54,6 @@ jobs:
           node-version: '16.15.1'
       - eb/setup
       - aws-cli/setup
-      - checkout
       # Deploy in both apps
       - run:
           name: Deploy App
